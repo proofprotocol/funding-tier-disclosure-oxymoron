@@ -1,6 +1,6 @@
 PP-SPEC-025: Funding tier disclosure oxymoron
 
- ## Funding Tier Oxymoron
+## Funding Tier Oxymoron
 **Status:** Draft — held pending release
 **Author:** Craig Ellrod
 **Date:** September 18, 2026
