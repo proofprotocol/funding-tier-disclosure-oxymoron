@@ -1,4 +1,4 @@
-PP-SPEC-025: Funding Tier Disclosure for Proof Marks
+PP-SPEC-025: Funding tier disclosure oxymoron
  
 **Status:** Draft — held pending release
 **Author:** Craig Ellrod
