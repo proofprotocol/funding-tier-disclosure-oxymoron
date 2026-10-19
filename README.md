@@ -15,7 +15,7 @@ Independence is not binary. This specification defines a three-tier disclosure t
 **Status:** Draft — held pending release
 **Author:** Craig Ellrod
 **Date:** September 18, 2026
-**License:** CC BY-ND 4.0
+**License:** Apache License 2.0
 **Related:** PP-SPEC-023 (Structural Independence and the Fidelity-at-Capture Requirement), PP-SPEC-024 (The Self-Attestation Oxymoron)
 
 ## Summary
